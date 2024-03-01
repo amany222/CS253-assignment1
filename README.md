@@ -28,6 +28,6 @@ While developing this software, the following assumptions were made:
 1. Each person (customer or employee) can rent a maximum of 3 cars at a time.
 2. The rental period for a car is variable and is specified when the car is rented.
 3. The condition of a car when it's returned can be variable.
-4. A person's record score increases by 10 (not exceeding 100) each time they return a car within the due date and in good condition.
+4. A person's record score increases by 5 (not exceeding 100) each time they return a car within the due date and in good condition.
 5. A person's record score decreases by 10 multiplied with number of days of late return from dueDate.
 6. A manager can add, update, or delete any customer, employee, or car in the store.
